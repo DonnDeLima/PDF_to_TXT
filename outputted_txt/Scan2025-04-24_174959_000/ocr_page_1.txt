@@ -1,0 +1,35 @@
+CAMARINES SUR tunanersorovrtes cutee
+
+COLLEGE ¢/
+POLYTECHNIC COLLEGES o
+1SO 9001:2015 Certified COMPUTER STUDIES
+
+CHAPTER 1
+INTRODUCTION
+
+This chapter provides and overview of the study, including its background, signifi-
+cance, objectives, and scope. It discusses the importance of sentiment analysis in Natu-
+ral Language Processing (NLP) and highlights the need for research on low-resource lan-
+guages, specifically Rinconada Bikol-Nabua. Lastly, it defines key terms relevant to the
+
+study.
+
+Background of the Problem
+
+Sentiment analysis, also known as opinion mining, is a subfield of natural language of
+Natural Language Processing (NLP) that is mainly involved in extracting, identifying, and
+analyzing subjective information from text data [3]. With the rise of digital communi-
+cation and social media platforms, sentiment analysis has been widely applied in fields
+such as business intelligence, political discussions, and customer feedback analysis [9].
+However, the majority of sentiment analysis research focused on high-resource languages,
+particularly English, while many low-resource languages, including regional dialects in the
+Philippines, remain underrepresented [4].
+
+In the Philippine context, sentiment analysis has been utilized to assess public opinion
+on government agencies and national issues. For instance, a study by Umali et al. [8]
+demonstrated how sentiment analysis could be applied to assess citizen sentiment toward
+government agencies, analyzing over 14, 506 social media comments to quantify public
+perception. Their research highlights a key application of sentiment classification in gover-
+nance and decision making. However, their study primarily focused on sentiment analysis
+
+in Filipino and English texts. Overlooking the regional languages such as Rinconada Bikol.

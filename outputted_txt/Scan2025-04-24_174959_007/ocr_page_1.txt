@@ -1,0 +1,35 @@
+————_—
+
+* CAMARINES SUR cuanaessrcrcomne couse
+
+COLLEGE
+POLYTECHNIC COLLEGES
+1SO 9001:2015 Certified COMPUTER STUDIES
+
+8
+erarchical representations of text data. The performances of each models will be
+evaluated and compared. These neural network based models will also be used along
+with traditional machine learning models to for sentiment analysis. Results from
+the evaluation of each models will provide insights into the effectiveness of machine
+learning and deep learning models for sentiment classification in the context of a low
+
+resource language like Rinconada Bikol Langauge - Nabua variant.
+
+Low-Resource Language. A language with limited linguistic resources, such as
+annotated datasets, pre-trained models, and computational tools for NLP. Rinconada
+Bikol, particularly Nabua variant, is considered a low-resource language due to the
+
+lack of large-scale sentiment corpora and trained models [1, 6].
+
+Text Processing. A series of data cleaning steps applied to raw text before sentiment
+classification. These steps typically include tokenization, stopword removal, stem-
+ming/lemmatization, and noise filtering to enhance model performance [5]. In this
+study, Rinconada Bikol Language - Nabua Text dataset will undergo text processing
+
+in order to optimize the training process of the models as well as improve accuracy.
+
+Corpus Linguistics. The study of language through structured text corpora. In this
+study, corpus linguistics techniques, such as token frequency analysis, part-of-speech
+tagging, and collocation analysis, will be employed to understand sentiment bearing
+
+words in Rinconada Bikol Language [6].

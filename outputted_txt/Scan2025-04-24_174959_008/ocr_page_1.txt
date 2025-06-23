@@ -1,0 +1,35 @@
+aN: CAMARINES SUR en
+
+COLLEGE
+a ‘Sf POLYTECHNIC COLLEGES
+1SO 9001:2015 Certified COMPUTER STUDIES
+
+9
+LS eee,
+Notes
+[1] Steven Abney. 2007. Semisupervised learning for computational linguistics. Chapman and Hall/CRC.
+[2] Emily Bender. 2019. The# benderrule: on naming the languages we study and why it matters. The
+Gradient, 14, 34.
+(3] Liu Bing. 2012. Sentiment analysis and opinion mining (synthesis lectures on human language tech-
+nologies). University of Illinois: Chicago, IL, USA.
+[4] Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali, and Monojit Choudhury. 2020. The state
+and fate of linguistic diversity and inclusion in the nlp world. arXiv preprint arXiv:2004.09095.
+
+[5] Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schiitze. 2008. Introduction to Informa-
+tion Retrieval. Cambridge University Press.
+
+[6] Joseph Jessie S. Ofiate and Tiffany Lyn O. Pandes. 2024. Exploratory analysis of rinconada bikol
+language-nabua text corpus. en. Language Resources and Evaluation, (Oct. 2024). Dor: 10.1007/s10
+579-024-09782-4.
+
+[7] _ Fabrizio Sebastiani. 2002. Machine learning in automated text categorization. ACM computing surveys
+
+(CSUR), 34, 1, 1-47.
+
+[8] Julieta Umali and John Paul Miranda. 2020. Sentiment analysis: a case study among the selected gov-
+ernment agencies in the philippines. International Journal of Advanced Trends in Computer Science
+and Engineering, 9, (June 2020), 2739-2745. Dot: 10.30534/ijatcse/2020/40932020.
+
+[9] Tom Young, Devamanyu Hazarika, Soujanya Poria, and Erik Cambria. 2018. Recent trends in deep
+
+learning based natural language processing. ieee Computational intelligenCe magazine, 13, 3, 55-75.

@@ -1,0 +1,39 @@
+$233, CAMARINES SUR snes
+\K
+
+COLLEGE »/
+POLYTECHNIC COLLEGES
+#180. 9001:2015 Certified COMPUTER STUDIES
+
+i
+superior performance in sentiment classification tasks by capturing contextual information
+and semantic relationships within text [9] . These models are capable of capturing con-
+textual dependencies, learning semantic relationships, and handling variations in sentence
+structure. Given the recent advancement in NLP, neural network-based models offer an al-
+ternative to traditional machine learning approaches, particularly in cases where annotated
+data is limited.
+
+Building upon the foundational work of Ofiate and Pandes[6] , this study aims to con-
+duct a comparative analysis of traditional machine learning model and neural network
+based models for classifying sentiment in the Nabua-Balatan variant of Rinconada Bikol.
+By evaluating the performances of these models, this research seeks to identify the most
+effective approach for sentiment classification in the context of a low-resource tegional
+language. The findings will contribute to the development of computational tools for Rin-
+conada Bikol sentiment analysis and serve as a foundation for future NLP applications in
+
+underrepresented Philippine Languages.
+
+Statement of the Problem
+
+The rapid development of sentiment analysis has largely benefited high-resource languages
+like English. However, there is a growing need to address the challenges faced by low-
+resource languages, which is the lack of datasets, linguistic tools, and pre-trained models
+necessary for effective sentiment analysis[2]. Additionally, while both traditional machine
+learning classifiers and neural network models have been widely used for sentiment classi-
+fication in various languages, their performance in clssifying sentiment in Rinconada Bikol
+Language - Nabua remains unexplored.
+
+As such, this study will focus on comparing the performance of traditional machine
+learning models and neural network approaches for sentiment analysis in Rinconada-Bikol
+
+Language - Nabua. It aims to evaluate which method provides more accurate and efficient

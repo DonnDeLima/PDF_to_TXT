@@ -1,0 +1,50 @@
+CAMARINES SUR csuaneeurecrcien cores
+
+COLLEGE «f
+POLYTECHNIC COLLEGES
+1SO 9001:2015 Carifiog COMPUTER STUDIES
+
+7
+——————————— esses
+
+methods will be applied before training the models. The study will compare classification
+performance using accuracy, precision, recall, and F1-score.
+
+However, this study is limited to text-based sentiment classification and does not ex-
+tend to speech, real-time sentiment analysis, or multi-modal data processing (e.g., images,
+videos, or audio). It does not explore complex linguistic phenomena such as sarcasm, irony,
+or implicit sentiment expressions that require deeper contextual understanding. The re-
+search will not include real-time data scraping and will focus only on existing text datasets.
+Additionally, texts with heavy code-switching between Rinconada-Bikol and other lan-
+guages will not be the primary focus. While the study provides insights into sentiment
+classification for a low-resource language, it will not involve large-scale deployment or “—
+
+real-time implementation.
+
+2 Reg
+
+a i Ss
+
+Project Dictionary ( Ay —— fo Dee bizdh..f.. wt
+HAL 7 3
+
+. 7
+
+The Project Dictionary contains the technical terms that defined the conceptual and opera-
+
+tion of this study: Pita Lae 2
+
++ Sentiment Analysis. The process of using Natural Language Processing (NLP) and
+machine learning techniques to determine the polarity (positive, negative, or neu-
+tral) of text-based data, commonly applied to social media analysis, product reviews,
+and public opinion mining [3]. In this study, sentiment analysis will be applied to
+
+Rinconada Bikol Langauge - Nabua Text.
+
+* Machine Learning Models. A category of statistical learning algorithms, including
+Support Vector Machines, Naive Bayes, and Random Forest, that are widely used for
+text classification tasks [7, 5]. These traditional machine learning algorithms will be
+
+used in sentiment analysis of Rinconada Bikol Language - Nabua Text.
+
+¢ Neural Network-Based Models. A class of deep learning models that learn hi-

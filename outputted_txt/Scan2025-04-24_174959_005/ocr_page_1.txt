@@ -1,0 +1,38 @@
+a, CAMARINES SUR cruanmcteo ocr cues
+
+COLLEGE »f
+POLYTECHNIC COLLEGES R
+gS 150. 9001:2015 Certified COMPUTER STUDIES
+
+develop data-driven policies that addresses the community issues more effectively. More-
+over the study promotes the use of AI-driven analytics in governance, fostering innovation
+in public service delivery.
+
+Community. The Rinconada-Bikol community and other local language speakers will
+benefit from this research, as it supports language preservation and technological repre-
+sentation. By facilitating the development of sentiment analysis in Rinconada-Bikol lan-
+guage,this research contributes to ensuring the language’s relevance and integrated into
+modern technologies, promoting culture and lingual diversity.
+
+Researchers. This study serves as an opportunity for the researchers to contribute to
+the field of natural language processing by exploring sentiment classification in a low-
+resource language like RBL-Nabua. Through the comparative analysis of traditional ma-
+chine learning and deep learning approaches, the authors gain hands-on experience in data
+preprocessing, model training, and performance evaluation using linguistic data unique to
+the community.
+
+Future Researchers. By providing the foundation for creating sentiment analysis mod-
+els tailored to low-resource language, this study offers a valuable reference for future re-
+
+searchers aiming to improve existing sentiment classification systems.
+
+Scope and Limitation
+
+This study focuses on sentiment analysis of the Rinconada-Bikol Language - Nabua Text
+by conducting a comparative analysis of traditional machine learning models and neural
+network-based approaches. It aims to assess the effectiveness and performance of clas-
+sification models, including Support Vector Machines (SVM), Naive Bayes, Logistic Re-
+gression (traditional models), and Long Short-Term Memory (LSTM), Recurrent Neural
+Networks (RNN), and Convolutional Neural Networks (CNN) (deep learning models).
+
+Preprocessing techniques such as tokenization, stopword removal, and word embedding

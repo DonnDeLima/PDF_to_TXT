@@ -1,0 +1,41 @@
+CAMARINES SUR couana wt eres cutee
+
+COLLEGE of
+POLYTECHNIC COLLEGES
+180 9001:2015 Certified COMPUTER STUDIES
+
+4
+es
+
+sentiment classification. The research seeks to determine how traditional machine learning
+models such as Support Vector Machines (SVM), Naive Bayes, and Logistic Regression
+perform in classifying sentiment compared to neural network models. Additionally, it ex-
+amines the accuracy and precision of sentiment classification when using neural network-
+based models, including Long Short-Term Memory (LSTM), Recurrent Neural Networks
+(RNN), and Convolutional Neural Networks (CNN). Furthermore, this study investigates
+whether there is a significant difference between traditional machine learning models and
+neural network approaches in capturing linguistic nuances and sentiment-related patterns
+
+in Rinconada-Bikol Language - Nabua text.
+
+Objectives of the Study
+
+General Objective
+
+This study aims to compare traditional machine learning models and neural network-based
+approaches for sentiment classification in Rinconada Bikol Language - Nabua text. It seeks
+to determine the most effective model in terms of accuracy, precision, recall, and F1-score,
+providing insights into the strengths and limitations of each approach. The findings will
+contribute to improving sentiment analysis techniques for low-resource languages and help
+
+develop more efficient text classification models.
+
+Specific Objectives
+
+More Specifically, this study aims to:
+
+1. To train traditional machine learning models (SVM, Naive Bayes, Logistic Regres-
+sion) and neural network models (LSTM, RNN, CNN) for sentiment classification in
+Rinconada-Bikol text.
+
+2. To evaluate and compare the performance of these models using standard metrics

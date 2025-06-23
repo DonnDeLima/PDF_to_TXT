@@ -1,0 +1,39 @@
+CAMARINES SUR Aue otc couraes
+
+COLLEGE
+POLYTECHNIC COLLEGES
+10 9001:2015 Certified COMPUTER STUDIES
+
+2
+
+The Rinconada Bikol language, a member of the Austronesian language family, pre-
+dominantly spoken in the areas of Camarines Sur , is an underrepresented language. Within
+this linguistic group, the Nabua-Balatan variant is notable for its unique phonetic and lex-
+ical characteristics. Despite its cultural significance, Rinconada-Bikol lacks substantial
+linguistic resources such as annotated datasets pre-trained NLP models which are essential
+for effective sentiment analysis [1] .
+
+Addressing this gap, Ofiate and Pandes (2024) (6{ developed a text corpus specifically
+for the Nabua variant of Rinconada Bikol. They collected texts from social media and ed-
+ucational materials, compiling a dataset of 8,754 words. Utilizing corpus linguistics tools,
+they performed analysis including tokenization, term frequency assessment, part-of-speech
+tagging, collocation examination. Additionally, they implemented a bag-of-words senti-
+ment analyzer, training 500 sentences labeled as positive, negative, or neutral using var-
+ious machine learning algorithms. Atneir experimental result shows Fl-scores of 57.83%
+for Logistic Regression, 52.08% for Support Vector Machine, 39.98% for Decision Tree
+Classifier, and 26.71% for Gaussian Naive Bayes. This pioneering work provides a foun-
+dational dataset and initial insights into sentiment analysis for the Nabua-Balatan variant
+of Rinconada Bikol.
+
+Traditional machine learning models such as Support Vector Machine (SVM), Naive
+Bayes, and Random Forest, have been widely used for text classification tasks, including
+sentiment analysis [7] . These models rely on handcrafted feature and statistical represen-
+tations, such as Bag-of-Words (BoW) and Term Frequency-Inverse Document Frequency
+(TF-IDF), to classify sentiment in text [5] . While it is effective for structured datasets and
+well-documented languages, these approaches often struggle with complex linguistic struc-
+tures and limited training data, which are common challenges in low-resource languages
+like Rinconada Bikol.
+
+On the other hand, deep learning models, such as recurrent neural networks (RNN),
+
+long-short-term memory (LSTM) and convolutional neural networks (CNN), have shown

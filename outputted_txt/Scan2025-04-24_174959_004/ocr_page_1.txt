@@ -1,0 +1,43 @@
+CAMARINES SUR cuteness rere costes
+
+COLLEGE +
+POLYTECHNIC COLLEGES
+1SO 9001:2015 Certifiod COMPUTER STUDIES
+
+5
+
+——
+such as accuracy, precision, recall, and Fl-score, Cohen’s Kappa, and Matthews
+Correlation Coefficient (MCC) to provide a more robust assessment of classification
+
+effectiveness.
+
+3. To develop a sentiment classification software with a user interface (UD) that utilizes
+both traditional and deep learning models for processing Rinconada-Bikol text, al-
+
+lowing users to input text and receive sentiment analysis results efficiently.
+
+Significance of the Study
+
+This study aims to address the need for efficient sentiment classification for low-resource
+languages, specifically Rinconada-Bikol. The findings can guide future studies in natural
+language processing(NLP) for underrepresented languages and may provide a foundation
+for building sentiment analysis systems that cater to low-resource languages. The results
+of this study will benefit the following individuals and entities:
+
+Camarines Sur Polytechnic Colleges(CSPC). The study will contribute to the insti-
+tutional body, offering fellow students, teaching staff, and researchers at CSPC a basis for
+understanding NLP techniques and their application to low-resource languages, especially
+Rinconada-Bikol language.
+
+Faculty and Administration. The faculty and administrators, particularly those par-
+taking in teaching and research within the fields of language, computer science, or data
+science, will find this study useful as an academic resource. As it offers as a basis for
+further research initiatives containing machine learning and deep learning models.
+
+Local Governement Unit. The findings of this study can aid local government units
+(LGUs) in understanding public sentiment more effectively, particularly for areas where
+RBL-Nabua are widely spoken. By leveraging sentiment classification models, LGUs can
+analyze social media discussions, public feedback, and citizen concenrs in real time. This
+
+can enhance their capabilities in decision-making, thus making way for policymakers to
